@@ -1,23 +1,19 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: bug
+name: game stops after about 1min
+about: I think this is an anti-cheat from surviv so you should improve it...
+title:
+labels: (i think)bug or anti-cheat system
 assignees: ''
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
-
+After you play the game for about 1 min, the game stops and you can't move, screen is frozen. you can emote, and see the background, just can't move and frozen screen.
 **Expected behavior**
-A clear and concise description of what you expected to happen.
-
+i'm pretty sure this shouldn't be working like this. i've tried downloading again but still not working
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
-
+sorry don't have one
 **Cheat version**
-(ex: 1.1.0)
-
+2.1.3
 **Chromium version**
-(go to chrome://version/)
+83.0.4103.61
